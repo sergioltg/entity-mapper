@@ -1,6 +1,6 @@
 # entity-mapper
 
-This project has some code examples of mapping entities to interchange between backend and frontend
+This project has some code examples of mapping entities for interchanging data between backend and frontend
 
 Main classes are entity.mapper.EntityMapper and entity.mapper.EntityMapperParser
 
