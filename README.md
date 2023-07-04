@@ -5,10 +5,9 @@ This project has some code examples of mapping entities to interchange between b
 Main classes are entity.mapper.EntityMapper and entity.mapper.EntityMapperParser
 
 EntityMapperParser - Parse a file in the following structure and create a EntityMapper:
-/**
- * Entity Map for AppIdentityEntityResource
- *
- */
+
+file appidentity.em
+
 alias data.ContactData as AppIdentityData;
 alias data.AddressData as AddressData;
 
